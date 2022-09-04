@@ -10,7 +10,7 @@ Journal of Alzheimer's Disease, 2022
 * [Prerequisites](#Prerequisites)
 * [Datasets](#Datasets)
 * [Approach](#approach)
-* [How to Cite](#How to Cite)
+* [HowtoCite](#How to Cite)
 * [History](#History)
 * [License](#License)
 * [Contacts](#Contacts)
