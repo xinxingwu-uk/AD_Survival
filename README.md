@@ -59,7 +59,7 @@ Some resutls:
 ![Fig1](./img/Fig3.jpg)
 
 
-## How to Cite
+## HowtoCite
 
 Xinxing Wu, Chong Peng, Peter T. Nelson, and Qiang Cheng. Machine learning approach predicts probability of time to stage-specific conversion of Alzheimer’s disease. Journal of Alzheimer's Disease, 2022.
 
