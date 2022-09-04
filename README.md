@@ -10,8 +10,7 @@ Journal of Alzheimer's Disease, 2022
 * [Prerequisites](#Prerequisites)
 * [Datasets](#Datasets)
 * [Approach](#approach)
-* [Main Results](#Results)
-* [How to Cite](#Cite)
+* [HowtoCite](#HowtoCite)
 * [History](#History)
 * [License](#License)
 * [Contacts](#Contacts)
@@ -53,7 +52,7 @@ Schematic illustration of our workflow for deep learning-based stage-stratified 
 
 ![Fig1](./img/Fig1.jpg)
 
-## Main results
+Some resutls:
 
 ![Fig1](./img/Fig2.jpg)
 
