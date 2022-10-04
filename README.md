@@ -41,7 +41,7 @@ Our study has the potential to provide individualized prediction for future time
 
 Python 3.7.8
 
-JupyterLab 3.2.9.
+JupyterLab 3.2.9
 
 ## Datasets
 
