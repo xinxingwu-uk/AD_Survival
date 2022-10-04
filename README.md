@@ -1,6 +1,4 @@
-# Machine learning approach predicts probability of time to stage-specific conversion of Alzheimer’s disease 
-
-Journal of Alzheimer's Disease, 90 (2), 2022
+# Machine learning approach predicts probability of time to stage-specific conversion of Alzheimer’s disease (Journal of Alzheimer's Disease, 2022)
 
 ## Table of contents
 * [Background](#Background)
@@ -62,7 +60,7 @@ Some resutls:
 
 ## HowtoCite
 
-Xinxing Wu, Chong Peng, Peter T. Nelson, and Qiang Cheng. Machine learning approach predicts probability of time to stage-specific conversion of Alzheimer’s disease. Journal of Alzheimer's Disease, 2022.
+Xinxing Wu, Chong Peng, Peter T. Nelson, and Qiang Cheng. Machine learning approach predicts probability of time to stage-specific conversion of Alzheimer’s disease. Journal of Alzheimer's Disease, 90 (2), 2022
 
 ---
 ## History
